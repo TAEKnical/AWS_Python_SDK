@@ -1,5 +1,4 @@
 # AWS_Python_SDK
-# AWS_Python_SDK
 
 |파일명|용도|
 |---|---|
